@@ -31,7 +31,7 @@
 ## 📫 Contact Me
 
 - Email: your.email@example.com  
-- GitHub: [yourgithub](https://github.com/yourgithub)  
+- GitHub: [yourgithub]([https://github.com/yourgithub](https://github.com/Minkyoungg0))  
 - Velog: [yourvelog](https://velog.io/@yourvelog)  
 
 ---
