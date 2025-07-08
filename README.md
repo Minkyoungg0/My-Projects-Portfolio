@@ -10,9 +10,8 @@
 
 | 프로젝트명        | 설명                                | 기술 스택                          | 링크                                  |
 | ----------------- | ---------------------------------- | --------------------------------- | ------------------------------------- |
-| **Oracle-query-practice**      | CRUD 기능을 구현한 ToDo 리스트 앱   | Oracle | [GitHub](https://github.com/yourgithub/todo-list)  |
-| **금융 데이터 분석기** | 금융 데이터를 시각화하는 웹 서비스   | Python, Pandas, Flask             | [GitHub](https://github.com/yourgithub/finance-analyzer) |
-| **프로젝트3**      | 간단한 프로젝트 설명                | 기술스택 적기                     | [GitHub](https://github.com/yourgithub/project3)   |
+| **Oracle-query-practice**      | Oracle Practice   | Oracle | [GitHub](https://github.com/yourgithub/todo-list)  |
+
 
 ---
 
