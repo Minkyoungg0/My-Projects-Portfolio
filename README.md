@@ -9,6 +9,7 @@
 | 프로젝트명        | 설명                                | 기술 스택                          | 링크                                  |
 | ----------------- | ---------------------------------- | --------------------------------- | ------------------------------------- |
 | **Oracle-query-practice**      | Oracle Practice   | Oracle | [GitHub](https://github.com/Minkyoungg0/Oracle-query-practice)  |
+| **Stock-Level-Test**      | JDBC Practice  | Java | [GitHub](https://github.com/Minkyoungg0/stock_game_project)  |
 
 
 ---
